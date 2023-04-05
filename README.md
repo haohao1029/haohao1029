@@ -103,12 +103,12 @@
     
 <img align="right" src="https://img.shields.io/badge/Elixir-4E2D5A?logo=elixir&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-#E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
     
- - 👨‍💻 **Internship as Fullstack Developers**\
-📆 July 2022 - November 2022 \
-📍 **Softinn Solution** - Melaka, Malaysia
+ - 👨‍💻 **Full Stack Developer**\
+📆 July 2021 - February 2022 \
+📍 **Resertech Sdn Bhd __(Software House)__** - Kuala Lumpur, Malaysia
 
 
 <img align="right" src="https://img.shields.io/badge/English-Second Language-blue" />
