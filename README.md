@@ -94,7 +94,7 @@
 <img align="right" src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/React-563D7C?logo=react&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/MongoDB-47A248?&logo=mongodb&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
     
 - 👨‍💻 **Internship as Web Developers**\
 📆 April 2022 - July 2022 \
