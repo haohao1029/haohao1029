@@ -101,10 +101,10 @@
 📍 **Strateq Group** - Kuala Lumpur, Malaysia
 
     
-<img align="right" src="https://img.shields.io/badge/Elixir-4E2D5A?style=for-the-badge&logo=elixir&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Ubuntu-#E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Elixir-4E2D5A?logo=elixir&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-#E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
     
  - 👨‍💻 **Internship as Fullstack Developers**\
 📆 July 2022 - November 2022 \
