@@ -55,6 +55,12 @@
     <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white" alt="Ionic Framework"/> 
     <img src="https://img.shields.io/badge/React-4AD5FE?style=for-the-badge&logo=react&logoColor=white" alt="React"/> 
 </p>
+<h3 align="center"> Data Science </h3>
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<p align="center">
+    
+</p>
+
 <!-- <h3 align="center"> Scripting </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="Power Shell"/>
