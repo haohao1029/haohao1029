@@ -78,3 +78,40 @@
 <!-- Credit to https://github.com/alexandresanlim/alexandresanlim/ -->
 <details>
   <summary>📃 Resume</summary>
+
+## Printable PDF
+<a href="https://docs.google.com/document/d/1H3p2dIiJdOkvzD7-gmhPnKT4sSpcP6OBO7A7SBW5yv0/edit?usp=sharing" target="_blank">Click me to download Printable Resume </a>
+
+## Education
+
+- 📖 **Bsc (Hons) In Computer Sciene Specialism in Data Analysis**\
+📆 August 2020 - 2022\
+📍 **Asia Pacific University of Technology & Innovation** - Kuala Lumpur, Malaysia
+
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
+    
+- 👨‍💻 **Internship as Web Developers**\
+📆 May 2020 - July 2021 \
+📍 **Strateq Group** - Kuala Lumpur, Malaysia
+
+    
+<img align="right" src="https://img.shields.io/badge/Elixir-4E2D5A?style=for-the-badge&logo=elixir&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/firebase-ffca28?logo=firebase&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Ubuntu-#E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+    
+ - 👨‍💻 **Internship as Fullstack Developers**\
+📆 July 2022 - November 2022 \
+📍 **Softinn Solution** - Melaka, Malaysia
+
+
+<img align="right" src="https://img.shields.io/badge/English-Second Language-blue" />
+<img align="right" src="https://img.shields.io/badge/Chinese-Mother Tougue-green" />
+
+</details>
