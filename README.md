@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
     <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch"/>
     <img src="https://img.shields.io/badge/Torchaudio-E8502D?style=for-the-badge&logoColor=white" alt="Torch Audio"/>
+    <img src="https://img.shields.io/badge/Audio Processing-00C266?style=for-the-badge&logoColor=white" alt="Audio Processing"/>
 </p>
 
 <!-- <h3 align="center"> Scripting </h3>
