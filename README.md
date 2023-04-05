@@ -47,7 +47,7 @@
 <!-- <h3 align="center"> Scripting </h3>
 <p align="center">
     <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" alt="Power Shell"/>
-<!--     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> -->
+     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"> 
 </p> -->
 
 <h3 align="center"> Deployment & Cloud </h3>
