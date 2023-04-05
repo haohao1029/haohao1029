@@ -4,6 +4,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=haohao1029" width="350">
     </a> 
    <a href="#">
-        <img src="https://streak-stats.demolab.com?user=haohao1029&theme=dark" />
+        <img src="https://streak-stats.demolab.com?user=haohao1029&theme=dark&show_icons=true&count_private=true&theme=radical" />
     </a>
 </p>
