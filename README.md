@@ -7,7 +7,7 @@
         <img src="https://streak-stats.demolab.com?user=haohao1029&theme=radical" />
     </a>
 </p>
-<h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=chengkangzai&label=Profile%20views&color=0e75b6&style=flat" alt="View Profile Counter" /></h2>
+<h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haohao1029&label=Profile%20views&color=0e75b6&style=flat" alt="View Profile Counter" /></h2>
 <!-- Badge Credit to : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
     <a href="https://www.linkedin.com/in/gan-jing-hao/">
@@ -25,7 +25,7 @@
 
 <p align="center">
     <a href="#">
-        <img alt="chengkangzai 's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chengkangzai&theme=radical&langs_count=6&layout=compact" />
+        <img alt="chengkangzai 's Activity Graph" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haohao1029&theme=radical&langs_count=6&layout=compact" />
     </a>
 </p>
 
