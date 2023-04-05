@@ -1,5 +1,5 @@
 <h3 align="center">A "Lazy" developer passionate about creating software that simplify people's life. </h3>
-<img align="center" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
+<img align="center" style="justify-content: center;" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
 
 <p align="center"> 📖  Nearly finish my study at <a href="http://www.apu.edu.my/" alt="Asia Pacific University"> Asia Pacific University </a> On Data Analysis but emphasis in Software Engineering </p>
 
