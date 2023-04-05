@@ -31,9 +31,9 @@
 
 <h3 align="center"> Web Development </h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Elixir-FF2D20?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir"/>
+    <img src="https://img.shields.io/badge/Python-777BB4?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CCS3"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
