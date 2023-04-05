@@ -1,4 +1,4 @@
-<h3 align="center">A "Lazy" developer passionate about creating software that simplify people's life. </h3>
+<h3 align="center">A lazy developer that removing others people work. </h3>
 
 <p align="center">
     <img align="center" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
