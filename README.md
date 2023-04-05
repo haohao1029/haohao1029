@@ -91,14 +91,14 @@
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PHP-777BB4?&logo=php&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-563D7C?logo=react&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/MongoDB-47A248?&logo=mongodb&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/laravel-FF2D20?logo=laravel&logoColor=white" />
     
 - 👨‍💻 **Internship as Web Developers**\
-📆 May 2020 - July 2021 \
-📍 **Strateq Group** - Kuala Lumpur, Malaysia
+📆 April 2022 - July 2022 \
+📍 **DoctorOnCall __(Malaysia leading E HealthCare)__** - Kuala Lumpur, Malaysia
 
     
 <img align="right" src="https://img.shields.io/badge/Elixir-4E2D5A?logo=elixir&logoColor=white" />
