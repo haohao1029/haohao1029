@@ -98,7 +98,7 @@
 ## Education
 
 - 📖 **Bsc (Hons) In Computer Sciene Specialism in Data Analysis**\
-📆 August 2020 - 2022\
+📆 June 2021 - May 2023\
 📍 **Asia Pacific University of Technology & Innovation** - Kuala Lumpur, Malaysia
 
 
