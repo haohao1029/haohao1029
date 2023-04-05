@@ -1,4 +1,4 @@
-<h3 align="center">A lazy developer that removing others people work. </h3> <P align="right">Updated at 5 April 2023</p>
+<h3 align="center">A lazy developer that removing others people work.  <P align="right">Updated at 5 April 2023</p> </h3>
 <p align="center"> learning Docker CI/CD, websocket, Scaling, ETL </p>
 <p align="center">
     <img align="center" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
