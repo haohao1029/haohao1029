@@ -1,13 +1,14 @@
 <h3 align="center">A "Lazy" developer passionate about creating software that simplify people's life. </h3>
+
 <p align="center">
-    <img align="center" style="justify-content: center;" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
+    <img align="center" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width="80%"/>
 </p>
 
 <p align="center"> 📖  Nearly finish my study at <a href="http://www.apu.edu.my/" alt="Asia Pacific University"> Asia Pacific University </a> On Data Analysis but emphasis in Software Engineering </p>
 
 <p align="center">I am open to hire !</p>
 
-<p align="center"> ⚡️ Fun fact: I convert Coffee to Code ☕️ </p>
+<p align="center"> ⚡️ Fun fact: I generate girlfriendssss with new GirlFriend() </p>
 <p align="center">
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api?username=haohao1029&show_icons=true&count_private=true&theme=radical" width="350">
