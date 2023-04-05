@@ -66,12 +66,12 @@
  -->
 <h3 align="center"> IDE </h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=PHPStorm&logoColor=white" alt="PHPStorm"/>
+    <!-- <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=PHPStorm&logoColor=white" alt="PHPStorm"/> -->
 <!--     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/> -->
 <!--     <img src="https://img.shields.io/badge/Clion-000000?style=for-the-badge&logo=Clion&logoColor=white" alt="Clion"/> -->
-    <img src="https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" alt="Web Storm" />
+    <!-- <img src="https://img.shields.io/badge/Webstorm-000000?style=for-the-badge&logo=Webstorm&logoColor=white" alt="Web Storm" /> -->
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
-<!--     <img src="https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio 2019" /> -->
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter%20studio&logoColor=white" alt="Jupyter" />
 <!--     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white" alt="Android Studio"/> -->
 </p>
 
