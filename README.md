@@ -56,9 +56,10 @@
     <img src="https://img.shields.io/badge/React-4AD5FE?style=for-the-badge&logo=react&logoColor=white" alt="React"/> 
 </p>
 <h3 align="center"> Data Science </h3>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
 <p align="center">
-    
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+    <img src="https://img.shields.io/badge/Pytorch-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Pytorch"/>
+    <img src="https://img.shields.io/badge/Torchaudio-E8502D?style=for-the-badge&logoColor=white" alt="Torch Audio"/>
 </p>
 
 <!-- <h3 align="center"> Scripting </h3>
