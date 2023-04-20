@@ -20,6 +20,9 @@
 <h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haohao1029&label=Profile%20views&color=0e75b6&style=flat" alt="View Profile Counter" /></h2>
 <!-- Badge Credit to : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
+    <a href="https://leadinghao.me/">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
     <a href="https://www.linkedin.com/in/gan-jing-hao/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
