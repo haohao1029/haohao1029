@@ -20,16 +20,16 @@
 <h2> 🔌 Connect with me <img src="https://komarev.com/ghpvc/?username=haohao1029&label=Profile%20views&color=0e75b6&style=flat" alt="View Profile Counter" /></h2>
 <!-- Badge Credit to : https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 <p align="center">
-    <a href="https://leadinghao.me/">
+    <a href="https://leadinghao.me/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Personal%20Site-BB3E35?style=for-the-badge&logo=google&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="https://www.linkedin.com/in/gan-jing-hao/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
-    <a href="https://www.linkedin.com/in/gan-jing-hao/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-    <a href="https://www.instagram.com/jinghao00/">
+    <a href="https://www.instagram.com/jinghao00/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
     </a>
-    <a href="mailto:ganjinghao2000@gmail.com">
+    <a href="mailto:ganjinghao2000@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
     </a>
 </p>
